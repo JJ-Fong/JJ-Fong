@@ -15,8 +15,5 @@ CS Major 👨‍💻<br>Studying MSc in Statistics 📈<br>Tech, Stat and ML ent
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=JJ-Fong&icon=0&color=0)](https://visitcount.itsvg.in)
